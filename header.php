@@ -3,6 +3,12 @@
 
 <head>
    <?php
+
+   // Dynamically generate base URL
+   $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https://" : "http://";
+   $host = $_SERVER['HTTP_HOST'];
+   $server = $protocol . $host; // Example: http://localhost:8090
+   $base_path = $server . '/assets';
    // Get the current page address
    $current_page = $_SERVER['REQUEST_URI'];
 
@@ -81,9 +87,7 @@
       echo '<meta name="robots" content="noindex, nofollow">';
    }
    ?>
-   <?php
-   $server = "http://localhost:3000";
-   ?>
+
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
    <meta property="og:type" content="website">
    <meta content="width=device-width, initial-scale=1" name="viewport">
