@@ -248,7 +248,7 @@
                 </div>
                 <div class="overflow-off">
                     <div class="hero-caption-buttons-one">
-                        <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee98" data-fancybox="register2" href="#registerbox" class="trial-button w-inline-block">
+                        <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee98" data-fancybox="register3" href="#registerbox" class="trial-button w-inline-block">
                             <div class="trail-text">Create free account</div>
                         </a>
                         <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee9d" href="mailto:hello@makeopinion.com" class="trial-button feature-button w-inline-block">

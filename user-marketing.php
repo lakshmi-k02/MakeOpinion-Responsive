@@ -224,22 +224,20 @@
             <div class="home-hero-caption-block">
                 <div class="overflow-off">
                     <div data-w-id="1fd6d305-6679-7cb9-fb3a-46939f11c7c4" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="w-clearfix">
-                        <h1 class="home-hero-heading">
-                            <span style="font-size: 36px"><span style="color:#0070DF">eStore</span> that <span style="color:#0070DF">sells</span></span><br>
-                            <span style="color:#0070DF">A/B test </span> product pics.<br />
-                            <span style="color:#0070DF">Improve</span> products copy.<br />
-                            <span style="color:#0070DF">Optimize</span> checkout.
+                    <h1 class="home-hero-heading">
+                          <span style="font-size: 36px"><span style="color:#0070DF">Marketing</span> done <span style="color:#0070DF">right</span></span><br>
+                          <span style="color:#0070DF">Test</span> branding and design.<br>
+                           <span style="color:#0070DF">Analyze</span> survey results.<br>
+                           <span style="color:#0070DF">Impress</span> your clients.
                         </h1>
                     </div>
                 </div>
                 <div class="overflow-off">
-                    <p data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee95" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; margin-top: 50px;" class="hero-para-two">
-                        Test and use product pictures and descriptions that sell.<br>Optimize the experience of your users and simply sell more.
-                    </p>
+                <p data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee95" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; margin-top: 50px;" class="hero-para-two">Create amazing branding. Fine tune branding and messaging.<br>Impress your clients with pitches backed by customer opinions.</p>
                 </div>
                 <div class="overflow-off">
                     <div class="hero-caption-buttons-one">
-                        <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee98" data-fancybox="register2" href="#registerbox" class="trial-button w-inline-block">
+                        <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee98" data-fancybox="register6" href="#registerbox" class="trial-button w-inline-block">
                             <div data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee99" class="trail-text-two-home">
                                 Create free account
                             </div>
@@ -260,26 +258,26 @@
                 <div class="home-hero-image-block">
                     <!-- Big PNG -->
                     <div class="banner-girl-image-block">
-                        <img src="./assets/images_new/eshop-back.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 56vw, (max-width: 991px) 54vw, (max-width: 1439px) 26vw, 347.671875px" srcset="
-                          ./assets/images_new/eshop-back.png 500w, 
-                          ./assets/images_new/eshop-back.png 770w" alt="Banner Girl Image" class="hero-main-image">
+                        <img src="./assets/images_new/mkt-back.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 56vw, (max-width: 991px) 54vw, (max-width: 1439px) 26vw, 347.671875px" srcset="
+                          ./assets/images_new/mkt-back.png 500w, 
+                          ./assets/images_new/mkt-back.png 770w" alt="Banner Girl Image" class="hero-main-image">
                     </div>
                     <!-- Floating Images -->
                     <div class="banner-float-images">
                         <div class="float-image-one">
-                            <img src="./assets/images_new/package-3.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 52vw, (max-width: 991px) 50vw, (max-width: 1439px) 25vw, 323.328125px" srcset="
-                             ./assets/images_new/package-3.png 500w, 
-                             ./assets/images_new/package-3.png 714w" alt="Banner Image One" class="float-image">
+                            <img src="./assets/images_new/marketing-3.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 52vw, (max-width: 991px) 50vw, (max-width: 1439px) 25vw, 323.328125px" srcset="
+                             ./assets/images_new/marketing-3.png 500w, 
+                             ./assets/images_new/marketing-3.png 714w" alt="Banner Image One" class="float-image">
                         </div>
                         <div class="float-image-two">
-                            <img src="./assets/images_new/package-1.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 52vw, (max-width: 991px) 50vw, (max-width: 1439px) 25vw, 323.328125px" srcset="
-                             ./assets/images_new/package-1.png 500w, 
-                             ./assets/images_new/package-1.png 710w" alt="Finance" class="float-image">
+                            <img src="./assets/images_new/marketing-1.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 52vw, (max-width: 991px) 50vw, (max-width: 1439px) 25vw, 323.328125px" srcset="
+                             ./assets/images_new/marketing-1.png 500w, 
+                             ./assets/images_new/marketing-1.png 710w" alt="Finance" class="float-image">
                         </div>
                         <div class="float-image-three">
-                            <img src="./assets/images_new/package-2.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 52vw, (max-width: 991px) 50vw, (max-width: 1439px) 25vw, 323.328125px" srcset="
-                             ./assets/images_new/package-2.png 500w, 
-                             ./assets/images_new/package-2.png 714w" alt="Order Value" class="float-image">
+                            <img src="./assets/images_new/marketing-2.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 52vw, (max-width: 991px) 50vw, (max-width: 1439px) 25vw, 323.328125px" srcset="
+                             ./assets/images_new/marketing-2.png 500w, 
+                             ./assets/images_new/marketing-2.png 714w" alt="Order Value" class="float-image">
                         </div>
                     </div>
                 </div>

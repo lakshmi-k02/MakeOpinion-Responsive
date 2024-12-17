@@ -223,8 +223,72 @@
     </div>
 </section>
 
-<!-- Mobile Hero section -->
 
+<!-- Mobile hero section -->
+<section class="home-hero-section-one wf-section mobile-only" style="background: #fff;padding-bottom: 170px;background-image: url('./assets/images_new/bg-final.png');background-size: cover;background-position: 0 0">
+    <div class="home-hero-container-large w-container">
+        <div class="home-hero-main-block">
+            <div class="home-hero-caption-block">
+                <div class="overflow-off">
+                    <div data-w-id="1fd6d305-6679-7cb9-fb3a-46939f11c7c4" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d" class="w-clearfix">
+                        <h1 class="home-hero-heading">
+                            <span style="font-size: 36px"><span style="color:#0070DF">eStore</span> that <span style="color:#0070DF">sells</span></span><br>
+                            <span style="color:#0070DF">A/B test </span> product pics.<br>
+                            <span style="color:#0070DF">Improve</span> products copy.<br>
+                            <span style="color:#0070DF">Optimize</span> checkout.
+                        </h1>
+                    </div>
+                </div>
+                <div class="overflow-off">
+                    <p data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee95" style="margin-top: 50px; opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="hero-para-two">Test and use product pictures and descriptions that sell.<br>Optimize the experience of your users and simply sell more.</p>
+                </div>
+                <div class="overflow-off">
+                    <div class="hero-caption-buttons-one">
+                        <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee98" data-fancybox="register6" href="#registerbox" class="trial-button w-inline-block">
+                            <div data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee99" class="trail-text-two-home">
+                                Create free account
+                            </div>
+                        </a>
+                        <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee9d" onclick="book_a_demo();" class="trial-button feature-button w-inline-block">
+                            <div data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee9e" class="trail-text-two-home">
+                                Book a demo
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Hero images section -->
+        <div class="home-hero-image-block">
+            <div data-w-id="b3ab55ef-0bde-ad3e-dba8-997bea786104" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
+                <div class="home-hero-image-block">
+                    <div class="banner-girl-image-block">
+                        <img src="./assets/images_new/eshop-back.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 56vw, (max-width: 991px) 54vw, (max-width: 1439px) 26vw, 347.671875px" srcset="
+                          ./assets/images_new/eshop-back.png 500w, 
+                          ./assets/images_new/eshop-back.png 770w" alt="Banner Girl Image" class="hero-main-image">
+                    </div>
+                    <div class="banner-float-images">
+                        <div class="float-image-one">
+                            <img src="./assets/images_new/package-1.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 52vw, (max-width: 991px) 50vw, (max-width: 1439px) 25vw, 323.328125px" srcset="
+                             ./assets/images_new/package-1.png 500w, 
+                             ./assets/images_new/package-1.png 714w" alt="Banner Image One" class="float-image">
+                        </div>
+                        <div class="float-image-two">
+                            <img src="./assets/images_new/brand-1.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 52vw, (max-width: 991px) 50vw, (max-width: 1439px) 25vw, 323.328125px" srcset="
+                             ./assets/images_new/brand-1.png 500w, 
+                             ./assets/images_new/brand-1.png 710w" alt="Finance" class="float-image">
+                        </div>
+                        <div class="float-image-three">
+                            <img src="./assets/images_new/package-3.png" loading="lazy" sizes="(max-width: 479px) 94vw, (max-width: 767px) 52vw, (max-width: 991px) 50vw, (max-width: 1439px) 25vw, 323.328125px" srcset="
+                             ./assets/images_new/package-3.png 500w, 
+                             ./assets/images_new/package-3.png 714w" alt="Order Value" class="float-image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="strategy-section wf-section" style="background-color: #f9fafb;padding-top: 50px;background-image: url('./assets/images_new/bg4.png');background-size: cover;background-position: 0 0">
     <div class="page-container w-container">

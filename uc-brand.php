@@ -250,7 +250,7 @@
                 <!-- CTA Buttons -->
                 <div class="overflow-off">
                     <div class="hero-caption-buttons-one" style="display: flex; flex-direction: column; gap: 1rem; align-items: center;">
-                        <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee98" data-fancybox="register2" href="#registerbox" class="trial-button w-inline-block" style="width: 100%; max-width: 300px;">
+                        <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee98" data-fancybox="register3" href="#registerbox" class="trial-button w-inline-block" style="width: 100%; max-width: 300px;">
                             <div data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee99" class="trail-text-two-home" style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">Create free account</div>
                             <div data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee9b" class="trail-text-two" style="transform: translate3d(0px, 50px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">Create free account</div>
                         </a>

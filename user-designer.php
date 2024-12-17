@@ -247,7 +247,7 @@
                 <div class="overflow-off">
                     <!-- Buttons -->
                     <div class="hero-caption-buttons-one">
-                        <a role="button" href="#registerbox" class="trial-button w-inline-block">
+                        <a role="button" href="#registerbox" data-fancybox="register6" class="trial-button w-inline-block">
                             <div class="trail-text">Create free account</div>
                         </a>
                         <a role="button" onclick="book_a_demo();" class="trial-button feature-button w-inline-block">

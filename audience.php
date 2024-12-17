@@ -83,7 +83,7 @@
     </div>
     <!-- CTA Buttons First -->
     <div class="hero-caption-buttons-one" style="margin-bottom: 20px; text-align: center;">
-      <a role="button" href="#registerbox" class="trial-button w-inline-block" style="display: inline-block; padding: 10px 20px; margin-right: 10px; background-color: #0070DF; color: #fff; border-radius: 5px; text-decoration: none; font-size: 14px;">Find sample availability for free</a>
+      <a role="button" href="#registerbox" data-fancybox="register4" class="trial-button w-inline-block" style="display: inline-block; padding: 10px 20px; margin-right: 10px; background-color: #0070DF; color: #fff; border-radius: 5px; text-decoration: none; font-size: 14px;">Find sample availability for free</a>
       <a role="button" href="mailto:bidding@makeopinion.com" class="trial-button feature-button w-inline-block" style="display: inline-block; padding: 10px 20px; background-color: #0070DF; color: #fff; border-radius: 5px; text-decoration: none; font-size: 14px;">Contact Us</a>
     </div>
     <!-- Hero Image Block Last -->
@@ -121,7 +121,7 @@
 
 <section class="home-new-technology-section-one wf-section" style="background-color:#fff;padding-top: 50px!important;background-image: url('./assets/images_new/bg4.png');background-size: cover;background-position: 0 0">
   <div class="new-tech-container w-container">
-    <div class="new-tech-main-section" style="padding-bottom: 25px">
+    <div class="new-tech-main-section">
       <div class="overflow-off">
         <h2 data-w-id="df73abb0-29b0-e495-8811-9681fc95cc2a" style="width: 70%; opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="tech-heading-one"><span style="color:#0070DF">Global Audiences</span> at your fingertips</h2>
       </div>

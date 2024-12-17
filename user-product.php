@@ -247,7 +247,7 @@
                 </div>
                 <div class="overflow-off">
                     <div class="hero-caption-buttons-one">
-                        <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee98" data-fancybox="register2" href="#registerbox" class="trial-button w-inline-block">
+                        <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee98" data-fancybox="register6" href="#registerbox" class="trial-button w-inline-block">
                             <div data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee99" class="trail-text-two-home">
                                 Create free account
                             </div>
@@ -301,7 +301,7 @@
     <div class="page-container w-container">
         <div class="services-block">
 
-            <h2 class="strategy-heading" style="font-size: 47px"><span style="color:#0070DF">Early</span> feedback. <span style="color:#0070DF">Informed</span> prioritization. <span style="color:#0070DF">Better</span> products.</h2>
+            <h2 class="strategy-heading" style="font-size: 40px"><span style="color:#0070DF">Early</span> feedback. <span style="color:#0070DF">Informed</span> prioritization. <span style="color:#0070DF">Better</span> products.</h2>
 
             <div class="testimonial-slider owl-carousel owl-theme owl-loaded owl-drag">
                 <div class="owl-stage-outer">

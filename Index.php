@@ -130,7 +130,7 @@
                         <!-- Buttons -->
                         <div class="overflow-off">
                             <div class="hero-section-button-block">
-                                <a role="button" data-fancybox="register2" href="#registerbox" class="trial-button w-inline-block">
+                                <a role="button" data-fancybox="register5" href="#registerbox" class="trial-button w-inline-block">
                                     <div class="trail-text-two-home">Try Now</div>
                                 </a>
 

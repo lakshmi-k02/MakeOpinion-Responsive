@@ -1,4 +1,162 @@
 <?php include('header.php'); ?>
+
+<!-- Mobile Styles for hero images-->
+<style>
+    @media screen and (max-width: 767px) {
+        .float-image {
+            border-radius: 6px;
+        }
+
+        img {
+            max-width: 100%;
+            vertical-align: middle;
+            display: inline-block;
+        }
+
+        img {
+            border: 0;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        img {
+            overflow-clip-margin: content-box;
+            overflow: clip;
+        }
+
+        body {
+            color: #333;
+            font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+            font-size: 14px;
+            line-height: 20px;
+        }
+
+
+        html {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+            font-family: sans-serif;
+        }
+
+        .home-hero-image-block {
+            width: 100%;
+            grid-column-gap: 20px;
+            grid-row-gap: 20px;
+            /* flex-direction: column; */
+            justify-content: center;
+            align-items: center;
+            padding-left: 0;
+        }
+
+        .home-hero-image-block {
+            width: 100%;
+            background-image: none;
+            background-repeat: repeat;
+            background-size: auto;
+            justify-content: center;
+            display: flex;
+        }
+
+        .overlay-image {
+            width: 180px;
+            /* Smaller size for overlay images on mobile */
+        }
+
+        .master-container {
+            position: relative;
+            display: inline-block;
+            max-width: 60%;
+        }
+
+        .master-image {
+            width: 100%;
+            height: auto;
+        }
+
+        .overlay {
+            left: calc(100% + 10px);
+            /* Adds some space between the container and the overlay */
+        }
+
+        .banner-float-images {
+            /* width: 93%; */
+            grid-column-gap: 20px;
+            grid-row-gap: 20px;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: -66px;
+            display: flex;
+        }
+
+        img {
+            max-width: 100%;
+            vertical-align: middle;
+            display: inline-block;
+        }
+
+        .overlay {
+            position: absolute;
+            top: 50%;
+            left: 100%;
+            /* Moves the overlay to the right side of the container */
+            transform: translate(0, -50%);
+            /* Centers overlay vertically */
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            /* Aligns overlay images to the left within the overlay */
+            gap: 20px;
+        }
+
+        .overlay-image {
+            width: 80px;
+            /* Set a fixed width for the overlay images */
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+
+
+        /* Animation keyframes */
+        @keyframes floatImageAnimation {
+            from {
+                opacity: 0;
+                transform: translateY(5px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Float images with animation */
+        .float-image {
+            border-radius: 6px;
+            opacity: 0;
+            transform: translateY(50px);
+            /* Start slightly below the final position */
+            animation: floatImageAnimation 1s ease-in-out forwards;
+        }
+
+        /* Animation delays for sequential appearance */
+        .float-image-one {
+            animation-delay: 0.2s;
+        }
+
+        .float-image-two {
+            animation-delay: 0.4s;
+        }
+
+        .float-image-three {
+            animation-delay: 0.6s;
+        }
+
+    }
+</style>
 <section class="home-hero-section-one wf-section desktop-only" style="background-image: url('./assets/images_new/bg-final.png');background-size: cover;background-position: 0 0">
    <div class="home-hero-container-large w-container">
       <div class="home-hero-main-block price_hero">
@@ -78,7 +236,7 @@
             </div>
             <div class="overflow-off">
                <div class="hero-caption-buttons-one">
-                  <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee98" data-fancybox="register2" href="#registerbox" class="trial-button w-inline-block">
+                  <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee98" data-fancybox="register5" href="#registerbox" class="trial-button w-inline-block">
                      <div data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee99" class="trail-text-two-home">Create free account</div>
                   </a>
                   <a role="button" data-w-id="ed211d01-a9c7-1804-c0ae-c31feba0ee9d" onclick="book_a_demo()" class="trial-button feature-button w-inline-block">
